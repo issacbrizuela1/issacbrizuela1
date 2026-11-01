@@ -160,10 +160,10 @@ Alternativa ligera a Postman / Bruno, offline-first: colecciones, peticiones, en
 ## 📈 Stats & Trophy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=issacbrizuela1&theme=merko&show_icons=true&count_private=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=issacbrizuela1&theme=merko&no-frame=false&no-bg=false&margin-w=4&border_color=67D242" />
+  <img src="https://github-stats-extended.vercel.app/api?username=issacbrizuela1&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=issacbrizuela1&langs_count=10&theme=dark_github" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issacbrizuela1&layout=compact&theme=merko" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=issacbrizuela1&repo=anuraghazra%2Fgithub-readme-stats&show_owner=true&description_lines_count=3&theme=dark_github_repocard" />
 </p>
 
 ---
